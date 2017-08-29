@@ -2,7 +2,7 @@
 	Wie? =	 Hur (Här:Vad?) 
 	Hiessen = 	heta
 	du =	 du 
-	Wie heisst du? = 	Vad heter du? 
+	Wie heissen Sie? = 	Vad heter ni? 
 	Salû! =		 Hej (Schweiz) 
 	Ich bin ... =	 Jag är .. 
 	und = 		och 
@@ -15,3 +15,9 @@
 	Wo? = 		var? 
 	wohnen = 	bo 
 	Wo wohnst du? =		 var bort du 
+	Ich whone in = 	Jag bor i
+	Bis morgen! = 	Vi ses imorgon! 
+	Tschüss! =	Hejdå!
+	Ciao 	= 	Hej då!
+	Wie geht's = 	Hur mår du= 
+	Danke, gut = 	Tack, bra. 
