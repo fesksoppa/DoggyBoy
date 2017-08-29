@@ -1,0 +1,17 @@
+	Hallo! =	Hej! 
+	Wie? =	 Hur (Här:Vad?) 
+	Hiessen = 	heta
+	du =	 du 
+	Wie heisst du? = 	Vad heter du? 
+	Salû! =		 Hej (Schweiz) 
+	Ich bin ... =	 Jag är .. 
+	und = 		och 
+	Grûss Dich! =	 Hej (Österrike) 
+	Woher =		 Varifrån
+	kommen =	 komma 
+	Woher kommst du? =	 Vartifrån kommer du? 
+	aus = 		från 
+	Ich komme aus Deutschland =	 Jag kommer från Tyskland 
+	Wo? = 		var? 
+	wohnen = 	bo 
+	Wo wohnst du? =		 var bort du 
